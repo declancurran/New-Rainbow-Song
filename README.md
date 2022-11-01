@@ -1,2 +1,2 @@
-# New-Rainbow-Song
-New one
+# New-Rainbow
+This is the new rainbow song
